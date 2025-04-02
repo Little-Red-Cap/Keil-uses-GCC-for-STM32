@@ -15,6 +15,7 @@
 * 1.选择Windows 不要选错其它操作系统的类型，除非你的Keil可以在Mac或者Linux上运行
 * 2.选择(mingw-w64-x86_64) 而不是 (mingw-w64-i686)，这里是你电脑的CPU架构类型，选64位可以更好利用CPU资源，提高编译速度
 * 3.选择AArch32，因为STM32是32位Cortex M架构
+
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/d7a7bd14981c49f1943373033df20ade.png)
 
 我这里选择可执行文件exe安装，当然你也可以选择下载压缩包zip直接解压到你想要的目录
